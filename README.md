@@ -1,4 +1,6 @@
 # 数据结构（实验）
+注：看到是空的不要意外，前排提示，git 提交代码是有历史记录的，比如commit什么的，提示到这，注意查重～
+
 本项目基于计蒜客平台的“数据结构与实验”，开发的过程用到了以下工具
 
 - VSCode(Visual Studio Code)
@@ -27,8 +29,8 @@ VSCode 怎么说呢，一开始是打算直接用VS2017来运行计蒜客的项�
 
 	template <class T>
 	Node<T>::Node() {
-    ptr = NULL;
-    next = NULL;
+	ptr = NULL;
+	next = NULL;
 	}
 
 原因是VS不支持这种形式，寻找模板T的时候会不匹配，于是在某一个VS版本删掉了（是不是听起来很扯），于是我就舍弃VS2017了
@@ -62,7 +64,7 @@ VSCode 怎么说呢，一开始是打算直接用VS2017来运行计蒜客的项�
 **删除里面的内容**
 
 	:%d
-	
+
 **拷贝国内源的代码**
 	
 	deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic main restricted universe multiverse
@@ -85,7 +87,7 @@ VSCode 怎么说呢，一开始是打算直接用VS2017来运行计蒜客的项�
 	sudo apt-get update
 
 #### 4. 安装c++编译环境
-	
+
 	sudo apt-get install g++
 	sudo apt-get install gdb
 
