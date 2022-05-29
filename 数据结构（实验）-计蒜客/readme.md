@@ -16,8 +16,10 @@
 本项目较为粗糙，注释什么的都没打，以后有时间再完善
 
 ## VSCode(Visual Studio Code)
-###前言
+### 前言
+
 VSCode 怎么说呢，一开始是打算直接用VS2017来运行计蒜客的项目的，但是后来发现，这个方法并不可行，主要的问题出在
+
 > 函数模板已定义
 
 报这个错误是我没想到的，后来虽然找到了解决办法：
@@ -27,8 +29,8 @@ VSCode 怎么说呢，一开始是打算直接用VS2017来运行计蒜客的项�
 
 	template <class T>
 	Node<T>::Node() {
-    ptr = NULL;
-    next = NULL;
+	ptr = NULL;
+	next = NULL;
 	}
 
 原因是VS不支持这种形式，寻找模板T的时候会不匹配，于是在某一个VS版本删掉了（是不是听起来很扯），于是我就舍弃VS2017了
@@ -62,7 +64,7 @@ VSCode 怎么说呢，一开始是打算直接用VS2017来运行计蒜客的项�
 **删除里面的内容**
 
 	:%d
-	
+
 **拷贝国内源的代码**
 	
 	deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic main restricted universe multiverse
@@ -85,7 +87,7 @@ VSCode 怎么说呢，一开始是打算直接用VS2017来运行计蒜客的项�
 	sudo apt-get update
 
 #### 4. 安装c++编译环境
-	
+
 	sudo apt-get install g++
 	sudo apt-get install gdb
 
