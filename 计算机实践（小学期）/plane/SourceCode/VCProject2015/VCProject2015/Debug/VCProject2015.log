@@ -1,0 +1,10 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  LessonX.cpp
+c:\program files (x86)\funcode\games\plane\sourcecode\src\lessonx.cpp(252): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+C:\program files (x86)\microsoft visual studio\2017\professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(C:\Program Files (x86)\FunCode\Games\plane\SourceCode\VCProject2015\VCProject2015\Debug\VCProject2015.exe) 与 Linker 的 OutputFile 属性值(C:\Program Files (x86)\FunCode\Games\plane\Bin\Game.exe)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+C:\program files (x86)\microsoft visual studio\2017\professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(VCProject2015) 与 Linker 的 OutputFile 属性值(Game)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+CEnemyFighter.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+CommonClass_2015.lib(CommonClass.obj) : warning LNK4099: 未找到 PDB“CommonClass_2015.pdb”(使用“CommonClass_2015.lib(CommonClass.obj)”或在“C:\Program Files (x86)\FunCode\Games\plane\SourceCode\VCProject2015\VCProject2015\Debug\CommonClass_2015.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  VCProject2015.vcxproj -> C:\Program Files (x86)\FunCode\Games\plane\SourceCode\VCProject2015\VCProject2015\Debug\VCProject2015.exe

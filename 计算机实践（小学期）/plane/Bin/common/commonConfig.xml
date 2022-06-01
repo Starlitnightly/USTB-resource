@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<TorqueGameConfiguration>
+   <Company>Independent</Company>
+   <GameName>UntitledGame</GameName>
+   <Resolution>800 600 32</Resolution>
+   <FullScreen>false</FullScreen>
+   <CommonVer>114</CommonVer>
+   <ScreenShotKey>ctrl p</ScreenShotKey>
+   <FullscreenKey>alt enter</FullscreenKey>
+   <UsesNetwork>0</UsesNetwork>
+   <UsesAudio>1</UsesAudio>
+   <DefaultScene>~/data/levels/level.t2d</DefaultScene>
+</TorqueGameConfiguration>

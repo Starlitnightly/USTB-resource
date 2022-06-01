@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<TorqueProject>
+   <Type>T2DProject</Type>
+   <Version>v1.7.5</Version>
+   <MinVersion>v1.1.4</MinVersion>
+   <Creator>Torque Game Builder</Creator>
+   <LastLevel>Bin/game/data/levels/level.t2d</LastLevel>
+   <ProjectName>plane</ProjectName>
+   <ProjectType>CPP</ProjectType>
+   <JavaDevVersion>JCreator</JavaDevVersion>
+</TorqueProject>

@@ -1,0 +1,189 @@
+//-------------------------- 8/28/2020 -- 17:28:12 -----
+Processor Init:
+   Intel (unknown, Pentium Pro/II/III family), ~1.80 Ghz
+     (timed at roughly 1.78 Ghz)
+   FPU detected
+   MMX detected
+   SSE detected
+ 
+Math Init:
+   Installing Standard C extensions
+   Installing Assembly extensions
+   Installing FPU extensions
+   Installing MMX extensions
+   Installing SSE extensions
+ 
+Input Init:
+   DirectInput enabled.
+
+Initializing chunk mappings...
+   o 'TEXT' maps to TextChunk
+   o 'SCHK' maps to UnknownChunk
+   o 'SCHK' maps to SimChunk
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/main.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/game/main.cs.
+ % - Initializing Common
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/preferences/defaultPrefs.cs.
+Reading Display Device information...
+   Primary Display Device Found:
+      Vendor Id: VEN_0000
+      Device Id: DEV_0000
+
+Using OpenGL rendering. Fullscreen: 0
+
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gameScripts/xml.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gameScripts/properties.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gameScripts/common.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gameScripts/audio.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gameScripts/canvas.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gameScripts/cursor.cs.
+Video Init:
+   Accelerated OpenGL display device detected.
+   Accelerated D3D device not detected.
+   Voodoo 2 display device not detected.
+
+Activating the OpenGL display device...
+Activating the OpenGL display device...
+Setting screen mode to 320x320x32 (w)...
+Creating a new window...
+Acquiring a new device context...
+Pixel format set:
+  32 color bits, 24 depth bits, 8 stencil bits
+Creating a new rendering context...
+Making the new rendering context current...
+OpenGL driver information:
+  Vendor: ATI Technologies Inc.
+  Renderer: AMD Radeon(TM) 535
+  Version: 4.6.13543 Compatibility Profile Context 25.20.15003.5010
+OpenGL Init: Enabled Extensions
+  ARB_multitexture (Max Texture Units: 8)
+  EXT_blend_color
+  EXT_blend_minmax
+  EXT_compiled_vertex_array
+  EXT_texture_env_combine
+  EXT_packed_pixels
+  EXT_fog_coord
+  ARB_texture_compression
+  EXT_texture_compression_s3tc
+  (ARB|EXT)_texture_env_add
+  EXT_texture_filter_anisotropic (Max anisotropy: 16)
+  WGL_EXT_swap_control
+OpenGL Init: Disabled Extensions
+  EXT_paletted_texture
+  NV_vertex_array_range
+  3DFX_texture_compression_FXT1
+
+Max Texture Size reported as: 16384
+Setting screen mode to 800x600x32 (w)...
+OpenAL Driver Init:
+   Vendor: Creative Labs Inc.
+   Version: OpenAL 1.0
+   Renderer: Software
+   Extensions: EAX 2.0, EAX 3.0, EAX Unified, and EAX-AC3
+
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/profiles.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/cursors.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/messageBoxOk.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/messageBoxYesNo.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/messageBoxYesNoCancel.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/messageBoxOKCancel.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/messageBoxOKCancelDetailsDlg.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/messagePopup.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/options.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/remap.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/console.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/NetworkMenu.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/startServer.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/joinServer.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/waitingForServer.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/helpDlg.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/messageBox.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/help.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gui/chatGui.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gameScripts/screenshot.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gameScripts/metrics.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/Gui/FrameOverlayGui.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gameScripts/scriptDoc.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gameScripts/keybindings.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gameScripts/options.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gameScripts/levelManagement.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gameScripts/projectManagement.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gameScripts/projectResources.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/common/gameScripts/align.cs.
+
+FunCode (v1.7.5) initialized...
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/game/managed/datablocks.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/game/managed/persistent.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/game/managed/brushes.cs.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/game/gui/mainScreen.gui.
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/game/gameScripts/game.cs.
+Activating DirectInput...
+DirectInput joystick failed to enable!
+Compiling C:/Program Files (x86)/FunCode/Games/plane/Bin/game/data/levels/level.t2d...
+Loading compiled script C:/Program Files (x86)/FunCode/Games/plane/Bin/game/data/levels/level.t2d.
+t2dStaticSprite::setFrame() - Cannot set Frame without existing t2dImageMapDatablock Datablock!
+t2dSceneGraph::addToScene() - Object '1380' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1381' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1382' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1383' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1384' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1385' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1386' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1387' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1388' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1389' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1390' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1391' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1392' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1393' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1394' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1395' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1396' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1397' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1398' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1399' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1400' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1401' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1402' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1403' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1404' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1405' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1406' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1407' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1408' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1409' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1410' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1411' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1412' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1413' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1414' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1415' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1416' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1417' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1418' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1419' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1420' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1421' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1422' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1423' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1424' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1425' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1426' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1427' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1428' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1429' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1430' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1431' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1432' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1433' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1434' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1435' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1436' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1437' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1438' is already in a SceneGraph!.
+t2dSceneGraph::addToScene() - Object '1439' is already in a SceneGraph!.
+DirectInput deactivated.
+Shutting down the OpenGL display device...
+Making the GL rendering context not current...
+Deleting the GL rendering context...
+Releasing the device context...
