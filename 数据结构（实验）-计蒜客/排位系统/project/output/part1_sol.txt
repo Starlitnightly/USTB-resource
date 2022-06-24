@@ -1,0 +1,22 @@
+[0]asd - 0
+[1]asd - 2
+[2]asd - 4
+[3]asd - 6
+[4]asd - 8
+[5]asd - 10
+[6]asd - 12
+[7]asd - 14
+[8]asd - 16
+[9]asd - 18
+[10]asd - 20
+[11]asd - 22
+[12]asd - 24
+[13]asd - 26
+[14]asd - 28
+[15]asd - 30
+[16]asd - 32
+[17]asd - 34
+[18]asd - 36
+[19]asd - 38
+
+Size of the heap is 20

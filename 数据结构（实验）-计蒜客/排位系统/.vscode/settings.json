@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cstddef": "cpp",
+        "ios": "cpp",
+        "xiosbase": "cpp"
+    }
+}
